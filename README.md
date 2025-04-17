@@ -1,12 +1,10 @@
-https://app.powerbi.com/view?r=eyJrIjoiZjJmYjNkMDUtZjZlMi00N2VlLThhNGUtMjQ5NzdjOGE3MzIwIiwidCI6ImE4MmM2NTBhLWNlZGMtNGQ1Ny04MDA1LTczMzhkYjMzZTllYSIsImMiOjR9
-
 El informe de Power BI para Adventure Works integrará datos clave de clientes, almacén, RRHH, compras, producción y ventas en paneles visuales interactivos, destacando KPIs esenciales para una toma de decisiones ágil y estratégica. Incluirá gráficos, tablas y filtros para análisis detallados por área.
+https://acortar.link/gzh375
 
 Menú
 ![Menú](https://github.com/user-attachments/assets/0d8060d1-9c09-4d73-8fc5-0e9d03f46f5e)
 
-Compras
-análisis detallado de compras de Adventure Works. Se destacan el monto total pagado ($115,839,961) y el número de órdenes de compra (4,012). También incluye gráficos del monto pagado por año y proveedor, además de métricas de cumplimiento de entrega. Se presentan detalles por producto, como cantidades recibidas y devueltas.
+Análisis detallado de compras de Adventure Works. Se destacan el monto total pagado ($115,839,961) y el número de órdenes de compra (4,012). También incluye gráficos del monto pagado por año y proveedor, además de métricas de cumplimiento de entrega. Se presentan detalles por producto, como cantidades recibidas y devueltas.
 ![image](https://github.com/user-attachments/assets/2718cbe2-ea78-47bb-b329-912d1bb1353c)
 
 Producción
