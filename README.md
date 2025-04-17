@@ -1,4 +1,4 @@
-El informe de Power BI para Adventure Works integrará datos clave de clientes, almacén, RRHH, compras, producción y ventas en paneles visuales interactivos, destacando KPIs esenciales para una toma de decisiones ágil y estratégica. Incluirá gráficos, tablas y filtros para análisis detallados por área.
+El informe de Power BI para Adventure Works integrará datos clave de clientes, almacén, RRHH, compras, producción y ventas en paneles visuales interactivos, destacando KPIs esenciales para una toma de decisiones ágil y estratégica. Incluirá gráficos, tablas y filtros para análisis detallados por área. </br>
 https://acortar.link/gzh375
 
 Menú
