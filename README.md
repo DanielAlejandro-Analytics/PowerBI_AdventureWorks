@@ -7,8 +7,7 @@ Menú
 Análisis detallado de compras de Adventure Works. Se destacan el monto total pagado ($115,839,961) y el número de órdenes de compra (4,012). También incluye gráficos del monto pagado por año y proveedor, además de métricas de cumplimiento de entrega. Se presentan detalles por producto, como cantidades recibidas y devueltas. Es un informe enfocado en gestión de compras y desempeño de proveedores.
 ![image](https://github.com/user-attachments/assets/2718cbe2-ea78-47bb-b329-912d1bb1353c)
 
-Producción
-
+Este informe de producción de Adventure Works proporciona un análisis detallado. Muestra métricas clave como productos terminados (1.422.627), costo de producción (21.073.339) y rentabilidad esperada (43%). También incluye gráficos sobre tendencias de producción por año, ubicación y categoría, y datos específicos de productos en proceso. Es útil para evaluar el desempeño, costos y rentabilidad en diferentes períodos y categorías de producción.
 ![image](https://github.com/user-attachments/assets/e2e22fe8-67b7-431b-91bf-7795dfda9a64)
 
 Ventas
