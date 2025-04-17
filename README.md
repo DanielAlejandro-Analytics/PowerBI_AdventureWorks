@@ -4,7 +4,7 @@ https://acortar.link/gzh375
 Menú
 ![Menú](https://github.com/user-attachments/assets/0d8060d1-9c09-4d73-8fc5-0e9d03f46f5e)
 
-Análisis detallado de compras de Adventure Works. Se destacan el monto total pagado ($115,839,961) y el número de órdenes de compra (4,012). También incluye gráficos del monto pagado por año y proveedor, además de métricas de cumplimiento de entrega. Se presentan detalles por producto, como cantidades recibidas y devueltas.
+Análisis detallado de compras de Adventure Works. Se destacan el monto total pagado ($115,839,961) y el número de órdenes de compra (4,012). También incluye gráficos del monto pagado por año y proveedor, además de métricas de cumplimiento de entrega. Se presentan detalles por producto, como cantidades recibidas y devueltas. Es un informe enfocado en gestión de compras y desempeño de proveedores.
 ![image](https://github.com/user-attachments/assets/2718cbe2-ea78-47bb-b329-912d1bb1353c)
 
 Producción
